@@ -98,10 +98,17 @@ nav ul li a:hover{
 .btn2{
     background:transparent;
     border:2px solid #38bdf8;
-}
+};
 .btn3{
     background:transparent;
     border:2px solid #38bdf8;
+    background-radius:30px;
+    margin-right:10px;
+    transition:.4s;
+    color:white;
+    background:#38bdf8;
+    padding:12px 28px;
+    display:inline-block;
 }
 
 .hero-image img{
